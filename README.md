@@ -1,3 +1,15 @@
+.env example :
+
+# Database
+
+DATABASE_CLIENT=postgres
+DATABASE_HOST=127.0.0.1
+DATABASE_PORT=5432
+DATABASE_NAME=blblackstrapi
+DATABASE_USERNAME=pierrelocal
+DATABASE_PASSWORD=123123123123
+MAX_RANDOM_PROD=100
+
 # 🚀 Getting started with Strapi
 
 Strapi comes with a full featured [Command Line Interface](https://docs.strapi.io/dev-docs/cli) (CLI) which lets you scaffold and manage your project in seconds.
